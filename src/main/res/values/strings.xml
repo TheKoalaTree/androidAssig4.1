@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="pause">pause</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="content">content</string>
+    <string name="enter_your_work_out_type">Enter your work out type:</string>
+    <string name="enter_here">Enter here</string>
+</resources>
